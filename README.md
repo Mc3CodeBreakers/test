@@ -1,2 +1,2 @@
 # test
-this is our first repositry
+this is our first repository
